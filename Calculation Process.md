@@ -26,7 +26,7 @@ PCSA_ratio = physiological cross-sectional area ratio (area of the latissimus do
 <b>these three variables are the genetic identifiers of ring specialists and favorable genetics here acutely reduce the difficulty of the iron cross</b></br>
 
 ## physiological derivations
-<i>all calculations took gender into account when calculating values</i>,/br>
+<i>all calculations took gender into account when calculating values</i></br></br>
 the M series variables relating to the mass of the arm segments were calculated using the Zatsiorsky-Seluyanov method with predetermined B<sub>0</sub>, B<sub>1</sub>, and B<sub>2</sub> co-efficeients
 the L series variables relating to the length of the arm segments were calculated using standard anthropometric estimates</br>
 the A series variables were declared explicitly without any derivations, the values taken was the average angles recorded in different datasets</br>
